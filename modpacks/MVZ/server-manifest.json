@@ -34,6 +34,10 @@
       "hash": "6f281febea0746d2229f692cb719bd017ec70b32"
     },
     {
+      "path": "mods/Bloodmoon-MC1.12.2-1.5.3.jar",
+      "hash": "181062c89f2016f06e73864eab7c2ff016ccc754"
+    },
+    {
       "path": "mods/coroutil-1.12.1-1.2.37.jar",
       "hash": "90392789dfbcadf440415a775d3ec81326deee2f"
     },
@@ -134,6 +138,10 @@
       "hash": "e8f62b290746e6713e5233cc1c187e20a08489e3"
     },
     {
+      "path": "mods/MoBends_1.12.2-1.2.1-19.12.21.jar",
+      "hash": "79b40921c29312c4acec13db282c2abe3274af3b"
+    },
+    {
       "path": "mods/mobsunscreen-1.12.2-3.1.5.jar",
       "hash": "aad96b117273691737c9db3d628a37e484208248"
     },
@@ -220,6 +228,10 @@
     {
       "path": "resourcepacks/Tissou\u0027s Zombie Pack 1.12.2 v2.0.zip",
       "hash": "70a98fdf92aabaa77ad82f4847e24a6bc322394e"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "dba6c74fb14ed28deee5731005beda7262ed473a"
     }
   ],
   "addons": [
