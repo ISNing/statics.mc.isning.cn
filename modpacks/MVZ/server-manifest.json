@@ -3,7 +3,7 @@
   "author": "1208733578@qq.com",
   "version": "1.0",
   "description": "",
-  "fileApi": "https://statics.mc.isning.ml/modpack/MVZ",
+  "fileApi": "https://statics.mc.isning.ml/modpacks/MVZ",
   "files": [
     {
       "path": "mods/AutoRegLib-1.3-32.jar",
