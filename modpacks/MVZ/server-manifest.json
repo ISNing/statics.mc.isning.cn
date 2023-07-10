@@ -230,6 +230,10 @@
     {
       "id": "forge",
       "version": "14.23.5.2860"
+    },
+    {
+      "id": "optifine",
+      "version": "HD_U_G5"
     }
   ]
 }
