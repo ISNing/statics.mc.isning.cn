@@ -1,7 +1,7 @@
 {
   "name": "Mustard Virus Zombie Renewed",
   "author": "1208733578@qq.com",
-  "version": "2.0.0031",
+  "version": "2.0.0032",
   "description": "",
   "fileApi": "https://statics.mc.isning.ml/modpacks/MVZRenewed",
   "files": [
@@ -279,7 +279,7 @@
     },
     {
       "path": "options.txt",
-      "hash": "aa3d2228a6baa6a6dc7454b2ed46a239c3bd8a3f"
+      "hash": "47e735e3b0dd45146235f701cc4e550a9e47b50c"
     },
     {
       "path": "resourcepacks/TZP_1.19.2_2.6.zip",
