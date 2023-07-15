@@ -1,7 +1,7 @@
 {
   "name": "Mustard Virus Zombie Renewed",
   "author": "1208733578@qq.com",
-  "version": "2.0.0011",
+  "version": "2.0.0021",
   "description": "",
   "fileApi": "https://statics.mc.isning.ml/modpacks/MVZRenewed",
   "files": [
@@ -313,7 +313,7 @@
     },
     {
       "id": "forge",
-      "version": "43.2.0"
+      "version": "43.2.17"
     }
   ]
 }
