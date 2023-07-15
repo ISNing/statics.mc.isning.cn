@@ -1,0 +1,319 @@
+{
+  "name": "Mustard Virus Zombie Renewed",
+  "author": "1208733578@qq.com",
+  "version": "2.0.0011",
+  "description": "",
+  "fileApi": "https://statics.mc.isning.ml/modpacks/MVZRenewed",
+  "files": [
+    {
+      "path": "config/epicfight-client.toml",
+      "hash": "bda4990da47e64720b587f387983ac40dc4e7462"
+    },
+    {
+      "path": "config/epicfight.toml",
+      "hash": "3a03a57692197ccc8d761b8fad67db88e0b819ff"
+    },
+    {
+      "path": "mods/architectury-6.5.85-forge.jar",
+      "hash": "10b119c2e574b30a9f097e85c26aae867789d2b4"
+    },
+    {
+      "path": "mods/AutoRegLib-1.8.2-55.jar",
+      "hash": "342cac5511fe7009a260bc0a25fee777179ba530"
+    },
+    {
+      "path": "mods/BadMobs-1.19.2-16.1.3.jar",
+      "hash": "af2fcb28ee50a482c62ab4045dc611b03b355e45"
+    },
+    {
+      "path": "mods/betteranimalsplus-1.19.2-11.0.10-forge.jar",
+      "hash": "98bb2bcf0d26ff1b398415f2aeaa30b71729dfe2"
+    },
+    {
+      "path": "mods/betterfoliage-4.0.6.jar",
+      "hash": "db790d3d5d83ee554556df50de92829dc5a94cd3"
+    },
+    {
+      "path": "mods/bettervillage-forge-1.19.2-3.1.0.jar",
+      "hash": "51500d2b389e7c82532aa2a06ef2bdacae30fba4"
+    },
+    {
+      "path": "mods/BiomesOPlenty-1.19.2-17.1.1.162.jar",
+      "hash": "594af9eb029cd7c6179c1e54b23ba786a041c8d0"
+    },
+    {
+      "path": "mods/BRVSB-1.0.4-mc1.19.2.jar",
+      "hash": "ada5f626e2b954bb5a4d7aac8c7caa07a9980b42"
+    },
+    {
+      "path": "mods/canary-mc1.19.2-0.2.7.jar",
+      "hash": "4042eedfed80b07e806b528a097ce0c09ae5ad59"
+    },
+    {
+      "path": "mods/cfm-7.0.0-pre35-1.19.2.jar",
+      "hash": "632b8720e4a63981d7cbdf444d6619d2994bef6e"
+    },
+    {
+      "path": "mods/CITResewn-1.1.1.jar",
+      "hash": "e3b6316581240565443acd1c161b582fc9257070"
+    },
+    {
+      "path": "mods/Clumps-forge-1.19.2-9.0.0+14.jar",
+      "hash": "fa1ea47e0da5a219355bd5b6cf5df6e821b2baf8"
+    },
+    {
+      "path": "mods/connectedness-2.0.1a.jar",
+      "hash": "e743e9cb852eef33762ac3f0ed934e1fce4c11d4"
+    },
+    {
+      "path": "mods/CorgiLib-forge-1.19.2-1.0.0.34.jar",
+      "hash": "9006deecb4c35a0f137ebfea1fa1a1295615f398"
+    },
+    {
+      "path": "mods/coroutil-1.19.2-1.2.37.jar",
+      "hash": "b3e50415804a59a39c5f3a9fb7a5e2e36d42545f"
+    },
+    {
+      "path": "mods/dynamiclightsreforged-1.19.2_v1.4.0.jar",
+      "hash": "c0daf3672f980c4d9ed83dfbebce51b07956c5d0"
+    },
+    {
+      "path": "mods/DynamicSurroundings-6.0.0.2.jar",
+      "hash": "219de2fe54e1895b81819d329aed63c91c292a79"
+    },
+    {
+      "path": "mods/DynamicTrees-1.19.2-1.1.0-BETA3.jar",
+      "hash": "f814aa69d4012158bd77a19a427649c31bff6a85"
+    },
+    {
+      "path": "mods/DynamicTreesBOP-1.19.2-3.0.0.jar",
+      "hash": "d2b360fa71cebc2badbb763d97066c5e8ad54ce5"
+    },
+    {
+      "path": "mods/DynamicTreesPlus-1.19.2-1.1.0.jar",
+      "hash": "1fa45718692170683df8c8c503de767c9ab931df"
+    },
+    {
+      "path": "mods/DynamicTreesQuark-1.19.2-2.3.0-Beta2.jar",
+      "hash": "d46178c822ec01b522935c781c4f6c050b9edca9"
+    },
+    {
+      "path": "mods/EnhancedAI-1.8.1-mc1.19.2.jar",
+      "hash": "d9ea4e31b8e79f569926d493f92642bed7a8a78f"
+    },
+    {
+      "path": "mods/Enhanced_Celestials-forge-1.19.2-2.1.0.6.jar",
+      "hash": "d017cd0113bc0427d73e381b93576ae093b78a18"
+    },
+    {
+      "path": "mods/epicfight-18.3.8.jar",
+      "hash": "863e2dba88b8c4da73fd1740d3594e42bcfebc21"
+    },
+    {
+      "path": "mods/eureka-1192-1.2.0-beta.1.jar",
+      "hash": "9f8ac7d4fff6bfe7a0b5c7da8b390acdc3197f74"
+    },
+    {
+      "path": "mods/ferritecore-5.0.3-forge.jar",
+      "hash": "59245ec84ca1e3639237f5a04fe6f7556a9ec2bb"
+    },
+    {
+      "path": "mods/ftb-chunks-forge-1902.3.22-build.271.jar",
+      "hash": "ce72b7b56b5ec3edc2599a5e94219be09722b89a"
+    },
+    {
+      "path": "mods/ftb-library-forge-1902.3.19-build.214.jar",
+      "hash": "924c3b331726e51244ee2d0b304704bef21ef1b0"
+    },
+    {
+      "path": "mods/ftb-teams-forge-1902.2.14-build.123.jar",
+      "hash": "9e754e9710a39f8888e51eebeef5328f645342af"
+    },
+    {
+      "path": "mods/gravestone-1.19.2-1.0.1.jar",
+      "hash": "24d41b9a97916181c5eead459364e0de8b5d6227"
+    },
+    {
+      "path": "mods/I18nUpdateMod-3.5.0-all.jar",
+      "hash": "dd8b7ed6ab74dca90dfbd7243c1d2099dc538a9a"
+    },
+    {
+      "path": "mods/imblocker-1.19.2-3.1.2.jar",
+      "hash": "22dc8cc7b98c7af1c508a02ef19dcb6f2aec0689"
+    },
+    {
+      "path": "mods/ImmediatelyFastReforged-1.19.2-1.1.12.jar",
+      "hash": "774cc61168977910c7275285a024e5876e5b4c1d"
+    },
+    {
+      "path": "mods/InsaneLib-1.7.5-mc1.19.2.jar",
+      "hash": "3d2b3e3547ceae2d86baf6bd7d3296f8f12da286"
+    },
+    {
+      "path": "mods/Jade-1.19.1-forge-8.8.1.jar",
+      "hash": "85bfa9775426908750388658dda2b164f79d2a34"
+    },
+    {
+      "path": "mods/jei-1.19.2-forge-11.6.0.1016.jar",
+      "hash": "9a3ab559d678756ca50f49e4ea6487e43068af44"
+    },
+    {
+      "path": "mods/kotlinforforge-3.12.0-all.jar",
+      "hash": "cf09c1be6d8950e3f7551f02f141818aee5a3ec0"
+    },
+    {
+      "path": "mods/KryptonReforged-0.2.1.jar",
+      "hash": "70bdaa1c0935dd2a303292f0705d7cbec5e4d2f3"
+    },
+    {
+      "path": "mods/libraryferret-forge-1.19.2-4.0.0.jar",
+      "hash": "a64e75ebc4752c30af7e6893f208f90905f8a851"
+    },
+    {
+      "path": "mods/lightspeed-1.19.2-1.0.5.jar",
+      "hash": "acbd57a65c46bc1cbeaf3a41792c6187a8c22a9d"
+    },
+    {
+      "path": "mods/mobsunscreen-forge-1.19.2-3.0.9.jar",
+      "hash": "82bc3886e62099ef24968cdd83874df892c2e6f6"
+    },
+    {
+      "path": "mods/modernfix-forge-5.2.3+mc1.19.2.jar",
+      "hash": "ba82ce46e3a9e3bf08f378d0b60bde5da71c4ef2"
+    },
+    {
+      "path": "mods/notenoughcrashes-4.2.1+1.19.2-forge.jar",
+      "hash": "eecb31640eefae392c5c778028f2116e1094798c"
+    },
+    {
+      "path": "mods/oculus-mc1.19.2-1.6.4.jar",
+      "hash": "27e99e924d5fd845b73d6c969c7c65ad3122019c"
+    },
+    {
+      "path": "mods/physics-mod-2.12.3-mc-1.19.2-forge.jar",
+      "hash": "783c2c31255ac800ea159534f30f9d089057b754"
+    },
+    {
+      "path": "mods/purified_flesh_111.jar",
+      "hash": "1fe67bb285a845595d146e80b9f796c9f5910258"
+    },
+    {
+      "path": "mods/Quark-3.4-405.jar",
+      "hash": "62cd2d7935167180dbefe3b0a2d9e5faad477b1e"
+    },
+    {
+      "path": "mods/reforgium-1.0.12a.jar",
+      "hash": "24f47100c2c4b78c9ffb7e79535e4799c2e274ab"
+    },
+    {
+      "path": "mods/rubidium-0.6.2b.jar",
+      "hash": "d076157305e5933aefa4a8d1e7c5b4a1b6759d12"
+    },
+    {
+      "path": "mods/rubidium_extras-1.19.2_v1.4.3.jar",
+      "hash": "295d558c7efa08793e88cacce398bb5c4991a2b3"
+    },
+    {
+      "path": "mods/saturn-mc1.19.2-0.0.4.jar",
+      "hash": "122c44a1cc9a3894728f5cf099c29ce507b613c1"
+    },
+    {
+      "path": "mods/sereneseasonfix-1.19.2-1.0.8.jar",
+      "hash": "d97bbd7f1cf57ccf7b2481fef0386220f8c2f360"
+    },
+    {
+      "path": "mods/SereneSeasons-1.19.2-8.1.0.24.jar",
+      "hash": "ca8648fcc347bb9dc25480987bc24981c53c06f5"
+    },
+    {
+      "path": "mods/Smooth Swapping-1.19.2-1.0.2.jar",
+      "hash": "4adba2e65beb02c52f89281d9f35243da122ac27"
+    },
+    {
+      "path": "mods/smoothboot(reloaded)-mc1.19.2-0.0.2.jar",
+      "hash": "8dd9eee295f36f00e1332545b744c17d23fa96d9"
+    },
+    {
+      "path": "mods/starlight-1.1.1+forge.cf5b10b.jar",
+      "hash": "3d80b848c966841deeeba70305e38a29b7e3788d"
+    },
+    {
+      "path": "mods/TerraBlender-forge-1.19.2-2.0.1.136.jar",
+      "hash": "62e8ed86eca71f9936be2519092ace11539acc5c"
+    },
+    {
+      "path": "mods/ToolBelt-1.19.2-1.19.7.jar",
+      "hash": "23dcb008a33c0e0180f49309415116750eef4ea9"
+    },
+    {
+      "path": "mods/torohealth-1.19-forge-2.jar",
+      "hash": "30220dc45b17b77f2feed0da0af3012534ebb592"
+    },
+    {
+      "path": "mods/ToughAsNails-1.19-8.0.0.78.jar",
+      "hash": "1b5eee39140b060986e8c61f811a60708e30a206"
+    },
+    {
+      "path": "mods/valkyrienskies-1192-2.2.0-beta.2.jar",
+      "hash": "b113f1b63a2f132131e6f1ea1f8042d7aad9d6d7"
+    },
+    {
+      "path": "mods/weather2-1.19.2-2.7.5.jar",
+      "hash": "f1d335953201f7bcf9fad68f9b8594f668c444a0"
+    },
+    {
+      "path": "mods/XaerosWorldMap_1.30.6_Forge_1.19.1.jar",
+      "hash": "87d96c296a13ed86713f2679f620155d45c50268"
+    },
+    {
+      "path": "mods/Xaeros_Minimap_23.5.0_Forge_1.19.1.jar",
+      "hash": "9a668dcc1e081af42dc0254df26a1a7e97bc402c"
+    },
+    {
+      "path": "mods/yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar",
+      "hash": "18fb59ed7b6ff320b532e76e7f3607a70345dc02"
+    },
+    {
+      "path": "mods/zombieawareness-1.19.2-1.12.3.jar",
+      "hash": "ce67f6ef3a866f76df09d2f6d48966d9cf7a83cb"
+    },
+    {
+      "path": "mods/[1.19.2-forge]-Epic-Knights-7.11.jar",
+      "hash": "05fc9921dba8f78159219f7df33e677a88612b93"
+    },
+    {
+      "path": "resourcepacks/TZP_1.19.2_2.6.zip",
+      "hash": "e3f8e690357c0636c631e53816cd082551bdec75"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "91360b91daed520af8c44cda984a99e203b41100"
+    },
+    {
+      "path": "shaderpacks/SEUS PTGI HRR 3.zip",
+      "hash": "d4311ca97ec4360e26c9e85ae5786b125c30b305"
+    },
+    {
+      "path": "shaderpacks/SEUS PTGI HRR 3.zip.txt",
+      "hash": "e4e5106adec68077d6f22b14819ab637887c88be"
+    },
+    {
+      "path": "shaderpacks/SEUS-Renewed-v1.0.1.zip",
+      "hash": "df8fba5208b259b5adf7d1f7b00e1bfe0103955e"
+    },
+    {
+      "path": "shaderpacks/SEUS_PTGI_E12.zip",
+      "hash": "f35204a2841e3de2e2e60c8c0a4c2ac2a600dade"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.19.2"
+    },
+    {
+      "id": "forge",
+      "version": "43.2.0"
+    }
+  ]
+}
