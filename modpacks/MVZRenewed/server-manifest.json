@@ -118,18 +118,6 @@
       "hash": "59245ec84ca1e3639237f5a04fe6f7556a9ec2bb"
     },
     {
-      "path": "mods/ftb-chunks-forge-1902.3.22-build.271.jar",
-      "hash": "ce72b7b56b5ec3edc2599a5e94219be09722b89a"
-    },
-    {
-      "path": "mods/ftb-library-forge-1902.3.19-build.214.jar",
-      "hash": "924c3b331726e51244ee2d0b304704bef21ef1b0"
-    },
-    {
-      "path": "mods/ftb-teams-forge-1902.2.14-build.123.jar",
-      "hash": "9e754e9710a39f8888e51eebeef5328f645342af"
-    },
-    {
       "path": "mods/gravestone-1.19.2-1.0.1.jar",
       "hash": "24d41b9a97916181c5eead459364e0de8b5d6227"
     },
@@ -184,6 +172,10 @@
     {
       "path": "mods/oculus-mc1.19.2-1.6.4.jar",
       "hash": "27e99e924d5fd845b73d6c969c7c65ad3122019c"
+    },
+    {
+      "path": "mods/open-parties-and-claims-forge-1.19.2-0.19.0.jar",
+      "hash": "fb446968945be06ae50d9dae772c700b0f5dd849"
     },
     {
       "path": "mods/physics-mod-2.12.3-mc-1.19.2-forge.jar",
