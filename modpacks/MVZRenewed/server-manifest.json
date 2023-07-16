@@ -1,7 +1,7 @@
 {
   "name": "Mustard Virus Zombie Renewed",
   "author": "1208733578@qq.com",
-  "version": "2.0.0032",
+  "version": "2.0.0051",
   "description": "",
   "fileApi": "https://statics.mc.isning.ml/modpacks/MVZRenewed",
   "files": [
@@ -264,10 +264,6 @@
     {
       "path": "mods/zombieawareness-1.19.2-1.12.3.jar",
       "hash": "ce67f6ef3a866f76df09d2f6d48966d9cf7a83cb"
-    },
-    {
-      "path": "mods/[1.19.2-forge]-Epic-Knights-7.11.jar",
-      "hash": "05fc9921dba8f78159219f7df33e677a88612b93"
     },
     {
       "path": "options.txt",
