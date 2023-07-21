@@ -1,9 +1,9 @@
 {
   "name": "Mustard Virus Zombie Renewed",
   "author": "1208733578@qq.com",
-  "version": "2.0.0061",
+  "version": "2.1.0061",
   "description": "",
-  "fileApi": "https://statics.mc.isning.ml/modpacks/MVZRenewed",
+  "fileApi": "https://statics.mc.isning.cn/modpacks/MVZRenewed",
   "files": [
     {
       "path": "config/epicfight-client.toml",
