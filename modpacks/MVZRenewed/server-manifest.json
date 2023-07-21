@@ -1,7 +1,7 @@
 {
   "name": "Mustard Virus Zombie Renewed",
   "author": "1208733578@qq.com",
-  "version": "2.1.0061",
+  "version": "2.1.0062",
   "description": "",
   "fileApi": "https://statics.mc.isning.cn/modpacks/MVZRenewed",
   "files": [
@@ -267,7 +267,7 @@
     },
     {
       "path": "servers.dat",
-      "hash": "1723a801cc2ebf7c556e2ba2c3aafebe49d52f77"
+      "hash": "f9b2b1c3594d510cb8f982e0b752b5711c0557fc"
     },
     {
       "path": "shaderpacks/SEUS PTGI HRR 3.zip",
