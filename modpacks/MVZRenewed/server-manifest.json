@@ -1,7 +1,7 @@
 {
   "name": "Mustard Virus Zombie Renewed",
   "author": "1208733578@qq.com",
-  "version": "2.1.0062",
+  "version": "2.1.0081",
   "description": "",
   "fileApi": "https://statics.mc.isning.cn/modpacks/MVZRenewed",
   "files": [
@@ -82,16 +82,16 @@
       "hash": "219de2fe54e1895b81819d329aed63c91c292a79"
     },
     {
-      "path": "mods/DynamicTrees-1.19.2-1.1.0-BETA3.jar",
-      "hash": "f814aa69d4012158bd77a19a427649c31bff6a85"
+      "path": "mods/DynamicTrees-1.19.2-1.1.0-BETA5.jar",
+      "hash": "712efbffa27ce8033c5e3694acd997a99fbd9194"
     },
     {
-      "path": "mods/DynamicTreesBOP-1.19.2-3.0.0.jar",
-      "hash": "63e027737f7c5416fd9fd614e2629c969f51c3c6"
+      "path": "mods/DynamicTreesBOP-1.19.2-3.1.1.jar",
+      "hash": "6bd82c413cdac1cbbdcdb90fc282045d293fff09"
     },
     {
-      "path": "mods/DynamicTreesPlus-1.19.2-1.1.0.jar",
-      "hash": "1fa45718692170683df8c8c503de767c9ab931df"
+      "path": "mods/DynamicTreesPlus-1.19.2-1.1.1.jar",
+      "hash": "52fdd871938bdce14012b36e1aa84a016ca1c555"
     },
     {
       "path": "mods/DynamicTreesQuark-1.19.2-2.3.0-Beta2.jar",
