@@ -1,7 +1,7 @@
 {
   "name": "Mustard Virus Zombie Renewed",
   "author": "1208733578@qq.com",
-  "version": "2.1.0092",
+  "version": "2.1.0093",
   "description": "",
   "fileApi": "https://statics.mc.isning.cn/modpacks/MVZRenewed",
   "files": [
@@ -12,6 +12,10 @@
     {
       "path": "config/epicfight.toml",
       "hash": "0ad39ce8bf5d06670f7bbb5d8bc8ac486809494e"
+    },
+    {
+      "path": "config/homeostatic-client.toml",
+      "hash": "f5f5fed27e18e0a6394c8b1fa7af444afa3804ea"
     },
     {
       "path": "mods/architectury-6.5.85-forge.jar",
