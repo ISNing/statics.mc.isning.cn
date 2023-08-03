@@ -1,7 +1,7 @@
 {
   "name": "Mustard Virus Zombie Renewed",
   "author": "1208733578@qq.com",
-  "version": "2.1.0081",
+  "version": "2.1.0091",
   "description": "",
   "fileApi": "https://statics.mc.isning.cn/modpacks/MVZRenewed",
   "files": [
@@ -118,6 +118,10 @@
       "hash": "24d41b9a97916181c5eead459364e0de8b5d6227"
     },
     {
+      "path": "mods/Homeostatic-1.19.2-2.6.8.2.jar",
+      "hash": "1370f39e7a5ae5e8cd00a2a30862b0f76164c3a2"
+    },
+    {
       "path": "mods/I18nUpdateMod-3.5.0-all.jar",
       "hash": "dd8b7ed6ab74dca90dfbd7243c1d2099dc538a9a"
     },
@@ -232,10 +236,6 @@
     {
       "path": "mods/torohealth-1.19-forge-2.jar",
       "hash": "30220dc45b17b77f2feed0da0af3012534ebb592"
-    },
-    {
-      "path": "mods/ToughAsNails-1.19-8.0.0.78.jar",
-      "hash": "1b5eee39140b060986e8c61f811a60708e30a206"
     },
     {
       "path": "mods/weather2-1.19.2-2.7.5.jar",
