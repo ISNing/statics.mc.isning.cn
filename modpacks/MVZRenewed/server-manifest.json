@@ -1,7 +1,7 @@
 {
   "name": "Mustard Virus Zombie Renewed",
   "author": "1208733578@qq.com",
-  "version": "2.1.0093",
+  "version": "2.1.0101",
   "description": "",
   "fileApi": "https://statics.mc.isning.cn/modpacks/MVZRenewed",
   "files": [
@@ -240,6 +240,10 @@
     {
       "path": "mods/torohealth-1.19-forge-2.jar",
       "hash": "30220dc45b17b77f2feed0da0af3012534ebb592"
+    },
+    {
+      "path": "mods/TravelersBackpack-1.19.2-8.2.30.jar",
+      "hash": "3bb17bec5f33c642837f24b761f1b0906bdf9420"
     },
     {
       "path": "mods/weather2-1.19.2-2.7.5.jar",
