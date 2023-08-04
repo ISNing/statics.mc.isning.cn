@@ -1,7 +1,7 @@
 {
   "name": "Mustard Virus Zombie Renewed",
   "author": "1208733578@qq.com",
-  "version": "2.1.0101",
+  "version": "2.1.0111",
   "description": "",
   "fileApi": "https://statics.mc.isning.cn/modpacks/MVZRenewed",
   "files": [
@@ -16,6 +16,10 @@
     {
       "path": "config/homeostatic-client.toml",
       "hash": "f5f5fed27e18e0a6394c8b1fa7af444afa3804ea"
+    },
+    {
+      "path": "mods/[1.19.2-forge]-Epic-Knights-8.1.jar",
+      "hash": "1897f87d4f4bb5147acec254ef7c6b90df8f3000"
     },
     {
       "path": "mods/architectury-6.5.85-forge.jar",
@@ -60,6 +64,10 @@
     {
       "path": "mods/CITResewn-1.1.1.jar",
       "hash": "e3b6316581240565443acd1c161b582fc9257070"
+    },
+    {
+      "path": "mods/cloth-config-8.3.103-forge.jar",
+      "hash": "f328e96b7cbe94fa73e1421a72959296e7698c5d"
     },
     {
       "path": "mods/Clumps-forge-1.19.2-9.0.0+14.jar",
