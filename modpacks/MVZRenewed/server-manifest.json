@@ -1,7 +1,7 @@
 {
   "name": "Mustard Virus Zombie Renewed",
   "author": "1208733578@qq.com",
-  "version": "2.1.0111",
+  "version": "2.1.0121",
   "description": "",
   "fileApi": "https://statics.mc.isning.cn/modpacks/MVZRenewed",
   "files": [
@@ -84,6 +84,10 @@
     {
       "path": "mods/coroutil-1.19.2-1.2.37.jar",
       "hash": "b3e50415804a59a39c5f3a9fb7a5e2e36d42545f"
+    },
+    {
+      "path": "mods/curios-forge-1.19.2-5.1.4.1.jar",
+      "hash": "34f8dd98d00ebbc37e758df3709eae7841caeae0"
     },
     {
       "path": "mods/dynamiclightsreforged-1.19.2_v1.4.0.jar",
@@ -234,6 +238,14 @@
       "hash": "8dd9eee295f36f00e1332545b744c17d23fa96d9"
     },
     {
+      "path": "mods/sophisticatedbackpacks-1.19.2-3.18.55.889.jar",
+      "hash": "13538175c9b928371dad6ba138aa600c7d39685c"
+    },
+    {
+      "path": "mods/sophisticatedcore-1.19.2-0.5.83.394.jar",
+      "hash": "be7289242d91cd4bb9c89430555d01e389b4598c"
+    },
+    {
       "path": "mods/starlight-1.1.1+forge.cf5b10b.jar",
       "hash": "3d80b848c966841deeeba70305e38a29b7e3788d"
     },
@@ -248,10 +260,6 @@
     {
       "path": "mods/torohealth-1.19-forge-2.jar",
       "hash": "30220dc45b17b77f2feed0da0af3012534ebb592"
-    },
-    {
-      "path": "mods/TravelersBackpack-1.19.2-8.2.30.jar",
-      "hash": "3bb17bec5f33c642837f24b761f1b0906bdf9420"
     },
     {
       "path": "mods/weather2-1.19.2-2.7.5.jar",
